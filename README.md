@@ -1,4 +1,4 @@
-# housePricePredictor
+# House Price Predictor
 
 This python script is an introductory project to dive deep in Machine Learning.
 
